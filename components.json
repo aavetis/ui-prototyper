@@ -1,6 +1,6 @@
 {
-  "$schema": "https://ui.shadcn.com/schema.json",
-  "style": "new-york",
+  "$schema": "https://wiredjs.com/schema.json",
+  "style": "sketchy",
   "rsc": true,
   "tsx": true,
   "tailwind": {
