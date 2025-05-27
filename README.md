@@ -1,6 +1,6 @@
 # UI Prototype Builder
 
-This project allows you to create advanced UI prototypes effortlessly using GitHub Copilot in VS Code's Agent mode. Built with shadcn, React, and Next.js, you can develop sophisticated interfaces without the need for complex prompts.
+This project allows you to create advanced UI prototypes effortlessly using GitHub Copilot in VS Code's Agent mode. Built with Wired Elements, React, and Next.js, you can develop sophisticated interfaces without the need for complex prompts.
 
 ## Getting Started
 
@@ -29,6 +29,6 @@ Make a dashboard with mock data. it has 3 columns, with the middle one as the ma
 ## Features
 
 - Next.js boilerplate application
-- shadcn/ui component library
+- wired-elements components
 - Tailwind styling
 - lucide-react icons
