@@ -1,6 +1,11 @@
 # UI Prototype Builder
 
-This project allows you to create advanced UI prototypes effortlessly using GitHub Copilot in VS Code's Agent mode. Built with shadcn, React, and Next.js, you can develop sophisticated interfaces without the need for complex prompts.
+This project allows you to create advanced UI prototypes effortlessly using GitHub Copilot in VS Code's Agent mode. Built with shadcn, React, and Next.js, you can develop sophisticated interfaces without the need for complex prompts. Boilerplate project includes:
+
+- Next.js application
+- shadcn/ui component library
+- Tailwind styling
+- lucide-react icons
 
 ## Getting Started
 
@@ -26,9 +31,8 @@ Make a dashboard with mock data. it has 3 columns, with the middle one as the ma
 
 **Optional:** Enable 'auto approve' in Copilot settings to automatically apply agent-written changes to the codebase. You'll still be able to review and choose whether to keep or discard changes from the entire session. This setting can be found in VS Code settings > Chat > Tools > Auto Approve.
 
-## Features
 
-- Next.js boilerplate application
-- shadcn/ui component library
-- Tailwind styling
-- lucide-react icons
+## Example
+
+See the simple prompt in the GitHub Copilot chat, and the web preview that was generated.
+<img width="1768" alt="Screenshot 2025-06-04 at 11 39 10 AM" src="https://github.com/user-attachments/assets/d783e75a-477c-4298-87c9-e13284cf5b3e" />
